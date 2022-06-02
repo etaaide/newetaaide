@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newetaaide/static/css/main.9b76c41c.chunk.css",
+    "main.js": "/newetaaide/static/js/main.bb6363e0.chunk.js",
+    "main.js.map": "/newetaaide/static/js/main.bb6363e0.chunk.js.map",
+    "runtime-main.js": "/newetaaide/static/js/runtime-main.cb061e52.js",
+    "runtime-main.js.map": "/newetaaide/static/js/runtime-main.cb061e52.js.map",
+    "static/css/2.f7375132.chunk.css": "/newetaaide/static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js": "/newetaaide/static/js/2.5c9724e6.chunk.js",
+    "static/js/2.5c9724e6.chunk.js.map": "/newetaaide/static/js/2.5c9724e6.chunk.js.map",
+    "index.html": "/newetaaide/index.html",
+    "precache-manifest.9b39fe88d353f4f4d03177154b75286f.js": "/newetaaide/precache-manifest.9b39fe88d353f4f4d03177154b75286f.js",
+    "service-worker.js": "/newetaaide/service-worker.js",
+    "static/css/2.f7375132.chunk.css.map": "/newetaaide/static/css/2.f7375132.chunk.css.map",
+    "static/css/main.9b76c41c.chunk.css.map": "/newetaaide/static/css/main.9b76c41c.chunk.css.map",
+    "static/js/2.5c9724e6.chunk.js.LICENSE.txt": "/newetaaide/static/js/2.5c9724e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb061e52.js",
+    "static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js",
+    "static/css/main.9b76c41c.chunk.css",
+    "static/js/main.bb6363e0.chunk.js"
+  ]
+}
