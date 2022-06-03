@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ac548ffa9e896d9d072aaf08a739faf",
+    "revision": "3761d9dc307bccd34424e7b08433cb66",
     "url": "/newetaaide/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newetaaide/static/css/2.f7375132.chunk.css"
   },
   {
-    "revision": "5548f20f352ea3275437",
-    "url": "/newetaaide/static/css/main.9b76c41c.chunk.css"
+    "revision": "776bc51036322c48bd5a",
+    "url": "/newetaaide/static/css/main.0db6820f.chunk.css"
   },
   {
     "revision": "87f40ea25a22d4b82aaf",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newetaaide/static/js/2.5c9724e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5548f20f352ea3275437",
-    "url": "/newetaaide/static/js/main.bb6363e0.chunk.js"
+    "revision": "776bc51036322c48bd5a",
+    "url": "/newetaaide/static/js/main.ff9f3aca.chunk.js"
   },
   {
     "revision": "e82a4ba624b901d61483",
